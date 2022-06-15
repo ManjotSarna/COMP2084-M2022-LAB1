@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manjo\\Source\\Repos\\ManjotSarna\\COMP2084-M2022-LAB1\\Lab1\\Lab1.csproj": {}
+    "C:\\Users\\manjo\\source\\repos\\ManjotSarna\\COMP2084-M2022-LAB1\\Lab1\\Lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manjo\\Source\\Repos\\ManjotSarna\\COMP2084-M2022-LAB1\\Lab1\\Lab1.csproj": {
+    "C:\\Users\\manjo\\source\\repos\\ManjotSarna\\COMP2084-M2022-LAB1\\Lab1\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manjo\\Source\\Repos\\ManjotSarna\\COMP2084-M2022-LAB1\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "C:\\Users\\manjo\\source\\repos\\ManjotSarna\\COMP2084-M2022-LAB1\\Lab1\\Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "C:\\Users\\manjo\\Source\\Repos\\ManjotSarna\\COMP2084-M2022-LAB1\\Lab1\\Lab1.csproj",
+        "projectPath": "C:\\Users\\manjo\\source\\repos\\ManjotSarna\\COMP2084-M2022-LAB1\\Lab1\\Lab1.csproj",
         "packagesPath": "C:\\Users\\manjo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manjo\\Source\\Repos\\ManjotSarna\\COMP2084-M2022-LAB1\\Lab1\\obj\\",
+        "outputPath": "C:\\Users\\manjo\\source\\repos\\ManjotSarna\\COMP2084-M2022-LAB1\\Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manjo\\AppData\\Roaming\\NuGet\\NuGet.Config",
